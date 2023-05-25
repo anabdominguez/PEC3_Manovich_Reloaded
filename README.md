@@ -52,7 +52,13 @@ Es una plataforma en línea que permite a profesores crear **lecciones interacti
 
 Ahora podrías pensar ¿pero si eso ya se hace desde hace tiempo, por qué es diferente EDPuzzle?
 
-Por muchas cuestiones, entre ellas es que esos videos no es necesario que sean tuyos, puedes coger videos de cualquier plataforma como Youtube y editarlos. Tanto si los videos son propios como de otras plataformas, podrás hacer mucho más con ellos para **añadirles interactividad,** como: preguntas, comentarios, audios, cuestionarios, poner límite de tiempo para su visionado, y un largo etcétera.
+Por muchas cuestiones, entre ellas es que esos videos no es necesario que sean tuyos, puedes coger videos de cualquier plataforma como Youtube y editarlos. 
+
+Esto da una **amplia gama de recursos** a los docentes, permitiéndoles aprovechar un contenido muy valioso ya creado y hacer aún más interesantes sus lecciones. Haciendo así que el alumnado no abandone su tiempo de estudio gracias a este novedoso formato. La posibilidad de editar estos videos y agregar elementos interactivos es un elemento fundamental EDPuzzle.
+
+Con EDPuzzle, los profesores pueden ir aún más allá que simplemente reproducir en el aula. Pueden aumentar dicho contenido con **multitud de elementos interactivos,** como son: las preguntas tipo test o de desarrollo, comentarios que quieran aportar en ciertos momentos del video, audios, ya sea para añadirlos o cambiar el que tiene el video y cuestionarios, entre otras opciones. 
+
+**Esta interactividad involucra** activamente al alumnado durante el visionado de los videos, es que además el alumnado podrá participar respondiendo a toda esta interacción creada, creando una comunicación activa en el proceso de enseñanza de forma muy interactiva. Otra de las ventajas que tiene esta plataforma es que permite establecer límites de tiempo para el visionado de los videos, lo que fomenta la atención y la concentración durante todo el proceso.
 
 De modo que el alumnado tendrá todas las herramientas a su alcance para un aprendizaje enriquecido, motivador y adaptado al ritmo del individuo.
 
@@ -69,12 +75,24 @@ El profesor podría adaptar un video de Youtube a las necesidades de sus alumnos
 
 EDPuzzle una hibridación de **6 tecnologías** para resultar en 1 nuevo medio:
 
-- Cámara de grabación de video y pantalla
-- Almacenamiento y aprendizaje en línea
-- Software de edición de video
-- Cuestionarios / Preguntas a lo largo del video como elemento interactivo
-- Comentarios / Anotaciones que sirve de guía en el visionado del video al alumnado.
-- Estadísticas de uso y visionado de los videos.
+- Cámara de **grabación** de video y pantalla
+Esto permite a los docentes crear contenido único, original y personalizado con su propio toque personal.
+
+- **Almacenamiento** y aprendizaje en línea
+Todos los videos son almacenados en la plataforma para garantizar un rápido y fácil acceso.
+
+- Software de **edición** de video
+Podrán editar los videos: cortar, añadir, incluir subtítulos, elementos, gráficos, etc.
+
+- **Cuestionarios / Preguntas** a lo largo del video como elemento interactivo
+Una fantástica herramienta para poder corroborar que el alumnado comprende y aprende todo aquello que está visionando en el video, para que no quede en una simple vista de video sino que sea un elemento 100% educativo.
+
+- **Comentarios / Anotaciones** que sirve de guía en el visionado del video al alumnado.
+Para facilitar el aprendizaje, los profesores pueden realizar comentarios en ciertos momentos del video, para así mejorar la comprensión del alumnado de lo que está visionando.
+
+- **Estadísticas** de uso y visionado de los videos.
+Si el profesor obtiene datos de la interacción y visionado de los alumnos, podrá mejorar y adaptar el aprendizaje a cada uno de ellos.
+
 
 Gracias a esta hibridación, el profesor puede personalizar y adaptar la educación al individuo, pues de un mismo elemento audiovisual, puede comentar al alumno, puede hacerle de guía, ajustar la duración de los videos, monitorear el progreso de cada uno. Con todo ello, se logra **mejorar la experiencia de enseñanza a cada alumno.**
 
@@ -112,16 +130,35 @@ Tanto alumnos como profesores tienen a su disposición grabadoras y editores de 
 
 Flip realiza hibridación de múltiples formatos y herramientas:
 
-- Grabación de video
-- Grabación y captura de pantalla
-- Tecnología streaming
-- Almacenamiento en la nube
-- Edición de video
-- Efectos al estilo de redes sociales
-- Compartir en línea
-- Foros de discusión
-- Pizarras online
-- App con notificación
+- **Grabación** de video
+Los profesores pueden crear sus propios contenidos educativos personalizados.
+
+- **Captura de pantalla**
+Además pueden enriquecer dichos contenidos con explicaciones en pantalla o pizarras virtuales.
+
+- Tecnología **streaming**
+La tecnología streaming permite la transmisión en directo de la clase en línea, por lo que los alumnos pueden unirse a ella y participar de manera activa y real para recibir retroalimentación del profesor en el mismo instante.
+
+- **Almacenamiento** en la nube
+Todos los videos están almacenados en un único lugar para que sean accesibles para el alumnado, por lo que promueve la flexibilidad del aprendizaje.
+
+- **Edición** de video
+Editar los videos dentro de la misma plataforma es una gran ventaja que facilita mucho tanto al docente como al alumno, el ser ágiles con esta tecnología.
+
+- **Efectos** al estilo de redes sociales
+Sin duda una gran diferenciación con otras herramientas del mercado, el alumnado tiene a su disposición diferentes efectos y stickers propios de uso en redes sociales con los que el alumno está muy familiarizado, por lo que traer al aula, unas herramientas que se usaban exclusivamente para tiempo de ocio, al sector educativo, hará que el aprendizaje sea más ameno y divertido.
+
+- **Compartir** en línea
+
+- **Foros** de discusión
+Los foros de discusión es una forma de fomentar la participación y el intercambio de ideas entre el alumnado, es un entorno social donde poder participar de una forma diferente y divertida.
+
+- **Pizarras** online
+
+
+- App con **notificación**
+A través de la app tanto alumnos como profesores pueden estar al tanto de las últimas novedades y de los últimos contenidos a través de las notificaciones, por lo que es una forma de tener recordatorios y avisos de tareas para así llevar al día la formación.
+
 - Gestión de formación en línea
 
 Flip es una hibridación de **11 tecnologías y medios,** lo que la hace una herramienta novedosa y muy enriquecedora para revolucionar el aprendizaje del alumnado adaptado a la nueva era digital.
