@@ -39,7 +39,7 @@ Cuando nos encontramos ante casos de usos de diferentes medios pero sin una inte
 > *“Otra forma de mostrar esta diferencia es utilizando la metáfora de la reproducción sexual. El fruto de la reproducción sexual son nuevas personas que combinan el material genético de sus progenitores, no tan sólo montajes mecánicos de sus miembros físicos (que sería el equivalente de la multimedia)” (Manovich, 2013)*
 
 
-# Re-descubriendo la hibridación : EDPUZZLE
+# Redescubriendo la hibridación : EDPUZZLE
 
 > *“[EDPuzzle](https://edpuzzle.com/), la herramienta que quiere revolucionar el mundo del video en educación” (Educiación Tres Punto Cero, 2017)*
 
@@ -98,7 +98,7 @@ Gracias a esta hibridación, el profesor puede personalizar y adaptar la educaci
 
 
 
-# Re-descubriendo la hibridación : FLIP
+# Redescubriendo la hibridación : FLIP
 
 > *“[Flip](https://info.flip.com/es-us.html): una herramienta para darle voz al alumnado” (intef.es, 2021)*
 
