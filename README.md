@@ -205,4 +205,4 @@ De ahí que **la hibridación sea la respuesta natural a una sociedad tan digita
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Licencia:** Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY
+**Licencia:** Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Ana Belén Domínguez, 2023
